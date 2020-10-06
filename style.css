@@ -1,9 +1,12 @@
-.position-absolute{
-    position: absolute; 
-    z-index:1;
+.background-photo{
+  background-image: url("assets/xps-1gLdTsX3_70-unsplash.jpg");
+  background-size: cover;
+  padding: 50px;
 }
 
-.container{
-    position: absolute; 
-    z-index:2;
+.whitebox{
+    z-index: inherit 2;
+    background-color: white;
+  margin: 50px;
+  
 }
