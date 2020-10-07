@@ -5,8 +5,12 @@
 }
 
 .whitebox{
-    z-index: inherit 2;
-    background-color: white;
+    
+    background-color: rgba(255, 255, 255, 0.911);
   margin: 50px;
   
 }
+
+
+
+
