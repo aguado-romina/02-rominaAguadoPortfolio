@@ -89,14 +89,13 @@ footer{
   
   ..container,
   .media,
-  .mr-3,
-  .media-body,
   .row,
   .col {
     width: 100%;
   }
 
-  #sidebar {
+  .mr-3,
+  .media-body, {
     margin-top: 40px;
   }
 }
