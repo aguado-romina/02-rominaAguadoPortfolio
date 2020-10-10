@@ -89,8 +89,8 @@ footer{
   
   .whitebox {
     /* Box-model */
-    width: 80%;
-    padding: 20px;
+    width: 100%;
+    
   }
 
   
@@ -99,7 +99,7 @@ footer{
   .row,
   .col {
     width: 40%;
-    padding: 20px;
+    
   }
 
   .mr-3,
