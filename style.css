@@ -27,7 +27,7 @@
   width: 100%;
 }
   
-.whitebox {
+.whitebox, .container, .row, .col, .mr-3 {
   width: 100%;
 }
 
@@ -43,7 +43,7 @@
     width: 100%;
   }
     
-  .whitebox {
+  .whitebox, .container, .row, .col, .mr-3 {
     width: 100%;
   }
   
@@ -63,7 +63,7 @@
     width: 100%;
   }
     
-  .whitebox {
+  .whitebox, .container, .row, .col, .mr-3 {
     width: 100%;
   }
 }
