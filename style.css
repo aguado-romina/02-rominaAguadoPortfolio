@@ -11,18 +11,9 @@
     padding: 35px;
 }
 
-.{
-  align-content: center;
-}
-
-footer{
+.footer{
   text-align: center;
 }
-
-
-
-
-
 
 
 /* Width at 168px and below */
@@ -30,25 +21,18 @@ footer{
   body {
     background-color: #333;
   }
-
-  .whitebox {
-    /* Box-model */
-    width: 100%;
-    padding: 20px;
-  }
-
+.background-photo{
+  width: 100%;
+}
   
-  ..container,
-  .media,
-  .row,
-  .col {
-    width: 100%;
-  }
+.whitebox, .container, .media{
+  width: 80%;
+  padding: 20px;
+}
 
-  .mr-3,
-  .media-body, {
-    margin-top: 40px;
-  }
+.mr-3, .media-body, .row, .col{
+  width: 60%;
+  padding: 20px;
 }
 
 /* Width at 320px and below */
@@ -56,25 +40,18 @@ footer{
   body {
     background-color: #333;
   }
-
-  .whitebox {
-    /* Box-model */
-    width: 100%;
-    padding: 20px;
-  }
-
   
-  .container,
-  .media,
-  .mr-3,
-  .media-body,
-  .row,
-  .col {
+  .background-photo{
     width: 100%;
   }
-
-  #sidebar {
-    margin-top: 40px;
+    
+  .whitebox, .container, .media{
+    width: 100%;
+  }
+  
+  .mr-3, .media-body, .row, .col{
+    width: 60%;
+    padding: 20px;
   }
 }
 
@@ -87,23 +64,16 @@ footer{
   }
 
   
-  .whitebox {
-    /* Box-model */
+  .background-photo{
     width: 100%;
-    
   }
-
+    
+  .whitebox, .container, .media{
+    width: 100%;
+  }
   
-  .container,
-  .media,
-  .row,
-  .col {
-    width: 40%;
-    
-  }
-
-  .mr-3,
-  .media-body, {
-    margin-top: 40px;
+  .mr-3, .media-body, .row, .col{
+    width: 60%;
+    padding: 20px;
   }
 }
