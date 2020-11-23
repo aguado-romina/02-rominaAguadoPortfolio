@@ -6,33 +6,47 @@
   height: 100vh;
 }
 
-.whitebox-Index {
-    
+.whitebox-Index { 
+  background-color: rgba(255, 255, 255, 0.911);
+  margin: 70px;
+  padding: 30px;
+  font-family: 'Noto Serif', serif;
+  text-align: center;
+}
+.whitebox-Portfolio{ 
   background-color: rgba(255, 255, 255, 0.911);
   margin-top: 20px;
   padding: 30px;
-}
-.whitebox-Portfolio{
-    
-  background-color: rgba(255, 255, 255, 0.911);
-  /* margin: 20px; */
-  padding: 30px;
+  font-family: 'Noto Serif', serif;
+  text-align: center;
 }
 
-.whitebox-Contact{
-    
+.whitebox-Contact{  
   background-color: rgba(255, 255, 255, 0.911);
-  /* margin: 20px; */
+  margin: 80px;
   padding: 30px;
+  font-family: 'Noto Serif', serif;
+}
+
+nav {
+  font-family: 'Noto Serif', serif;
 }
 
 
 .footer {
-  background-color: aqua;
+  background-color: #343A40;
   text-align: center;
   padding: 5px;
   margin-top: -56px;
+  font-family: 'Noto Serif', serif;
 }
+
+.span {
+  color: #FFFFFF;
+  font-family: 'Noto Serif', serif;
+}
+
+
 
 
 /* Width at 168px and below */
