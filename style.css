@@ -8,14 +8,14 @@
 
 .whitebox-Index { 
   background-color: rgba(255, 255, 255, 0.911);
-  margin: 70px;
+  margin: 125px;
   padding: 30px;
   font-family: 'Noto Serif', serif;
   text-align: center;
 }
 .whitebox-Portfolio{ 
   background-color: rgba(255, 255, 255, 0.911);
-  margin-top: 20px;
+  margin: 120px;
   padding: 30px;
   font-family: 'Noto Serif', serif;
   text-align: center;
@@ -23,7 +23,7 @@
 
 .whitebox-Contact{  
   background-color: rgba(255, 255, 255, 0.911);
-  margin: 80px;
+  margin: 125px;
   padding: 30px;
   font-family: 'Noto Serif', serif;
 }
